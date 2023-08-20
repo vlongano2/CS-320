@@ -2,11 +2,11 @@
 
 #How can I ensure that my code, program, or software is functional and secure?
 
-The best wayt to ensure this is to test the program extensively. Testing will ensure the functionality. By doing this thoroughly, I can get a measure of the codes integrity as well as the program security.  
+The best way to ensure this is to test the program extensively. Testing will ensure the functionality. By doing this thoroughly, I can get a measure of the codes integrity as well as the program security.  
 
 #How do I interpret user needs and incorporate them into a program?
 
-The needs should be looked at in at least two different ways. What the user wants for an end result, and how the user wants to experience the program while aicheiving the end result. Incorporation involves taking on the mindset of potential users while also keeping the mind set of a software engineer to make sure what you are delivering is of the appropriate quality.
+The needs should be looked at in at least two different ways. What the user wants for an end result, and how the user wants to experience the program while aicheiving the end result. Incorporation involves taking on the mindset of potential users while also keeping the mindset of a software engineer to make sure what you are delivering is of the appropriate quality.
 
 #How do I approach designing software?
 
